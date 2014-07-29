@@ -1,0 +1,12 @@
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\obj\Debug\UsbDAQ.Form1.resources
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\obj\Debug\UsbDAQ.Properties.Resources.resources
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\obj\Debug\UsbDAQ.csproj.GenerateResource.Cache
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\bin\Debug\UsbDAQ.exe
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\bin\Debug\UsbDAQ.pdb
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\bin\Debug\LibUsbDotNet.dll
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\bin\Debug\ZedGraph.dll
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\bin\Debug\ZedGraph.xml
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\bin\Debug\LibUsbDotNet.xml
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\obj\Debug\UsbDAQ.exe
+C:\Users\fuge\Documents\avr\UsbDAQ\UsbDAQ\obj\Debug\UsbDAQ.pdb
