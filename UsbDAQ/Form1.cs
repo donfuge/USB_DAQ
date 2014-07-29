@@ -107,7 +107,7 @@ namespace UsbDAQ
             MeasTime = DateTime.Now;
 
             ElapsedTime = MeasTime - StartTime;
-            AddPoint(ElapsedTime.TotalMilliseconds/1000, captureval1, captureval2);
+            AddPoint(ElapsedTime.TotalMilliseconds * 0.001, captureval1, captureval2);
         }
 
         public void AddPoint(double x, double y, double z)
